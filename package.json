@@ -1,0 +1,36 @@
+{
+  "name": "rtk-quickstart",
+  "version": "1.0.1",
+  "description": "CLI to scaffold a production-ready React project with Redux Toolkit + RTK Query preconfigured",
+  "main": "bin/index.js",
+  "bin": {
+    "rtk-quickstart": "bin/index.js"
+  },
+  "files": [
+    "bin",
+    "template",
+    "template-ts"
+  ],
+  "keywords": [
+    "react",
+    "redux",
+    "rtk-query",
+    "redux-toolkit",
+    "scaffold",
+    "cli",
+    "boilerplate",
+    "vite"
+  ],
+  "author": "Dhruv Johari",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "fs-extra": "^11.2.0",
+    "ora": "^8.1.0"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "type": "module"
+}
