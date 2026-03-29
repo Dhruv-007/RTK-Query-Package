@@ -3,6 +3,8 @@
 [![npm version](https://img.shields.io/npm/v/rtk-quickstart)](https://www.npmjs.com/package/rtk-quickstart)
 [![GitHub repo](https://img.shields.io/badge/GitHub-RTK--Query--Package-181717?logo=github)](https://github.com/Dhruv-007/RTK-Query-Package)
 
+**Source:** [github.com/Dhruv-007/RTK-Query-Package](https://github.com/Dhruv-007/RTK-Query-Package) · **Documentation:** [README.md](https://github.com/Dhruv-007/RTK-Query-Package/blob/main/README.md)
+
 Scaffold a **production-ready** React project with Redux Toolkit + RTK Query — in one command.
 
 ```bash
